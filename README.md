@@ -1,4 +1,4 @@
-## Hi there 👋
+## AI Engineer designing automation systems, RAG pipelines, and LLM-powered backend services for scalable business workflows.
 
 <!--
 **nyamfusima/nyamfusima** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
