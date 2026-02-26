@@ -4,7 +4,8 @@ I design and implement scalable AI-driven workflows using Python, APIs, and mode
 
 ### Tech Stack
 Python • FastAPI • PostgreSQL  
-React • Next.js • TypeScript  
+React • Next.js • TypeScript
+n8n •  Zapier • Make
 OpenAI • Claude • LangChain  
 Docker • AWS • Azure  
 
